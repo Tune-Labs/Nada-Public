@@ -1,5 +1,5 @@
 # Privacy Policy for Nada
-**Effective Date:** November 25th, 2025
+**Effective Date:** December 2nd, 2025
 
 Thank you for using Nada! This Privacy Policy describes how we collect, use, process, and disclose your information in conjunction with your access to and use of the Nada mobile application (the "App").
 
